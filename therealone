@@ -1,0 +1,7 @@
+git lfs install
+git lfs track "*.swf"
+git add .gitattributes
+git commit -m "Configure Git LFS for SWF files"
+git add C:\Users\nated\OneDrive\Desktop\BleachVsNaruto3.5
+git commit -m "C:\Users\nated\OneDrive\Desktop\BleachVsNaruto3.5"
+git push origin main
